@@ -9,8 +9,8 @@ import java.util.concurrent.atomic.AtomicLong;
  */
 public class Employee {
 
-    private long id;
-    private String name;
+    private long id
+    private String name
     private String lastName;
     private String birthDate;
     private String role;
